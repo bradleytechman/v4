@@ -1,12 +1,13 @@
+import express from "express";
 import http from "node:http";
 import path from "node:path";
 import { createBareServer } from "@tomphttp/bare-server-node";
 import request from "@cypress/request";
-import express from "express"; // Moved the import here
 
 const __dirname = path.resolve();
 const server = http.createServer();
 const app = express(server);
+const bareServer = createBareServer("/bare/");
 
 app.use(express.json());
 app.use(
@@ -72,8 +73,6 @@ server.on("listening", () => {
   console.log(`Doge Unblocker @ Port 8000`);
 });
 
-const port = process.env.PORT || 8000; // Corrected the default port
-
-server.listen(port, "0.0.0.0", () => {
-  console.log(`Server running on port ${port}`);
+server.listen({
+  port: 8000,
 });

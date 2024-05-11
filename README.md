@@ -3,7 +3,8 @@
 1. (recommended) [https://v4dogev4.vercel.app](https://v4dogev4.vercel.app)
 2. [https://doge-bradleytechman-471ee990.koyeb.app/](https://doge-bradleytechman-471ee990.koyeb.app/)
 3. [https://v4-igz8d7vyr-bradleytechmans-projects.vercel.app/](https://v4-igz8d7vyr-bradleytechmans-projects.vercel.app/)
-4. [https://doge.up.railway.app](https://doge.up.railway.app) ~~(this one probably wont work and im not fixing it)~~ im fixing it
+4. [https://v4-git-main-bradleytechmans-projects.vercel.app/](https://v4-git-main-bradleytechmans-projects.vercel.app/)
+5. [https://doge.up.railway.app](https://doge.up.railway.app) ~~(this one probably wont work and im not fixing it)~~ im fixing it
 
 
 

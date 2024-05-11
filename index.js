@@ -1,4 +1,3 @@
-import express from "express";
 import http from "node:http";
 import path from "node:path";
 import { createBareServer } from "@tomphttp/bare-server-node";
@@ -6,8 +5,10 @@ import request from "@cypress/request";
 
 const __dirname = path.resolve();
 const server = http.createServer();
+
+// Define your routes and middleware here
+import express from "express";
 const app = express(server);
-const bareServer = createBareServer("/bare/");
 
 app.use(express.json());
 app.use(
@@ -73,21 +74,8 @@ server.on("listening", () => {
   console.log(`Doge Unblocker @ Port 8000`);
 });
 
-// index.js or your entry point file
-const express = require('express');
-const app = express();
+const port = process.env.PORT || 8000;
 
-// Define your routes and middleware here
-
-// Use PORT provided in environment or default to 3000
-const port = process.env.PORT || 3000;
-
-// Listen on `port` and 0.0.0.0
-app.listen(port, "0.0.0.0", function () {
+server.listen(port, "0.0.0.0", () => {
   console.log(`Server running on port ${port}`);
-});
-
-
-server.listen({
-  port: 8000,
 });

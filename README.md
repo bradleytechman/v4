@@ -2,7 +2,7 @@
 ALL MIRRORS (from me):
 1. (recommended) https://doge-bradleytechman-471ee990.koyeb.app/
 2. https://v4dogev4.vercel.app
-3. https://doge.up.railway.app
+3. https://doge.up.railway.app (this one probably wont work and im not fixing it)
 
 
 

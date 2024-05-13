@@ -5,12 +5,12 @@ if curious, statistics for the shortened link are here: https://is.gd/stats.php?
 
 
 # ALL MIRRORS (from me):
-1. (recommended) [https://v4dogev4.vercel.app](https://v4dogev4.vercel.app)
-2. [https://doge-bradleytechman-471ee990.koyeb.app/](https://doge-bradleytechman-471ee990.koyeb.app/)
-3. [https://v4-igz8d7vyr-bradleytechmans-projects.vercel.app/](https://v4-igz8d7vyr-bradleytechmans-projects.vercel.app/)
-4. [https://v4-git-main-bradleytechmans-projects.vercel.app/](https://v4-git-main-bradleytechmans-projects.vercel.app/)
-5. [https://v4-bradleytechmans-projects.vercel.app/](https://v4-bradleytechmans-projects.vercel.app/)
-6. [https://doge.up.railway.app](https://doge.up.railway.app) ~~(this one probably wont work and im not fixing it)~~ ~~im fixing it~~ i gave up
+1. (recommended) V4[https://v4dogev4.vercel.app](https://v4dogev4.vercel.app)
+2. V4[https://doge-bradleytechman-471ee990.koyeb.app/](https://doge-bradleytechman-471ee990.koyeb.app/)
+3. V4[https://v4-igz8d7vyr-bradleytechmans-projects.vercel.app/](https://v4-igz8d7vyr-bradleytechmans-projects.vercel.app/)
+4. V4[https://v4-git-main-bradleytechmans-projects.vercel.app/](https://v4-git-main-bradleytechmans-projects.vercel.app/)
+5. V4[https://v4-bradleytechmans-projects.vercel.app/](https://v4-bradleytechmans-projects.vercel.app/)
+6. OUTDATED. VERSION 3 [https://doge.up.railway.app](https://doge.up.railway.app) ~~(this one probably wont work and im not fixing it)~~ ~~im fixing it~~ ~~i gave up~~ fixed, basically the deploy to railway button deploys v3 (yes, even on v4's page.) and on v4, railway support was just never added.
 
 
 

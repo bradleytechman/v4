@@ -10,7 +10,7 @@ if curious, statistics for the shortened link are here: https://is.gd/stats.php?
 3. V4[https://v4-igz8d7vyr-bradleytechmans-projects.vercel.app/](https://v4-igz8d7vyr-bradleytechmans-projects.vercel.app/)
 4. V4[https://v4-git-main-bradleytechmans-projects.vercel.app/](https://v4-git-main-bradleytechmans-projects.vercel.app/)
 5. V4[https://v4-bradleytechmans-projects.vercel.app/](https://v4-bradleytechmans-projects.vercel.app/)
-6. OUTDATED. VERSION 3 [https://doge.up.railway.app](https://doge.up.railway.app) ~~(this one probably wont work and im not fixing it)~~ ~~im fixing it~~ ~~i gave up~~ fixed, basically the deploy to railway button deploys v3 (yes, even on v4's page.) and on v4, railway support was just never added.
+6. OUTDATED. VERSION 3 [https://doge.up.railway.app](https://doge.up.railway.app) ~~(this one probably wont work and im not fixing it)~~ ~~im fixing it~~ ~~i gave up~~ NOT fixed, basically the deploy to railway button deploys v3 (yes, even on v4's page.) and on v4 (and just learning v3 aswell), railway support was just never added.
 
 
 
